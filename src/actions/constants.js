@@ -1,0 +1,14 @@
+
+export   const authConstant = {
+        USER_LOGIN: "USER_LOGIN",
+    //    USER_LOGIN_SUCCESS:"USER_LOGIN_SUCCESS",
+        USER_LOGOUT: "USER_LOGOUT"
+
+}
+
+export const userConstants = {
+    GET_REALTIME_USERS:"GET_REALTIME_USERS",
+    GET_REALTIME_MESSAGES:"GET_REALTIME_MESSAGES"
+}
+
+ 
